@@ -1,0 +1,1 @@
+# StrataScrach_variance-and-the-standard-deviation
